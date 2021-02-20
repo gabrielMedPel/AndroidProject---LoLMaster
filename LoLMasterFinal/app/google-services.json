@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761110340827",
+    "firebase_url": "https://lolmasterfinal.firebaseio.com",
+    "project_id": "lolmasterfinal",
+    "storage_bucket": "lolmasterfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761110340827:android:cba4685bbb5d8f731818fe",
+        "android_client_info": {
+          "package_name": "gabriel.medpel.lolmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761110340827-si33uev1mt19n7n9kq1rpha8lquo0rd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFp2XVohJU--_85ZEKv8HG7FLpI9h8pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761110340827-si33uev1mt19n7n9kq1rpha8lquo0rd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

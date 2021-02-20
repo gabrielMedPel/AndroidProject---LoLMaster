@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_champions"
+        android:icon="@drawable/champion_icon"
+        android:title="Champions" />
+
+    <item
+        android:id="@+id/navigation_items"
+        android:icon="@drawable/item_icon"
+        android:title="Items" />
+
+    <item
+        android:id="@+id/navigation_runes"
+        android:icon="@drawable/rune_icon"
+        android:title="Runes" />
+
+    <item
+        android:id="@+id/navigation_spells"
+        android:icon="@drawable/spell_icon"
+        android:title="Summoner Spells" />
+
+</menu>

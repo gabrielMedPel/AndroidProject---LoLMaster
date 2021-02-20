@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_champions">
+
+    <fragment
+        android:id="@+id/navigation_items"
+        android:name="gabriel.medpel.lolmasterfinal.ui.items.ItemsFragment"
+        android:label="Items"
+        tools:layout="@layout/fragment_items" />
+
+    <fragment
+        android:id="@+id/navigation_champions"
+        android:name="gabriel.medpel.lolmasterfinal.ui.champions.ChampionsFragment"
+        android:label="Champions"
+        tools:layout="@layout/fragment_champions" />
+
+    <fragment
+        android:id="@+id/navigation_runes"
+        android:name="gabriel.medpel.lolmasterfinal.ui.runes.RunesFragment"
+        android:label="Runes"
+        tools:layout="@layout/fragment_runes" />
+
+    <fragment
+        android:id="@+id/navigation_spells"
+        android:name="gabriel.medpel.lolmasterfinal.ui.spells.SpellsFragment"
+        android:label="Summoner Spells"
+        tools:layout="@layout/fragment_spells" />
+
+
+</navigation>
